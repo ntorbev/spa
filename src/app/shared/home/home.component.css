@@ -1,0 +1,14 @@
+:host {
+  display: flex;
+
+
+}
+
+div {
+  margin-left: 10px;
+
+}
+
+div mat-card {
+  margin-bottom: 10px;
+}
